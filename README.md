@@ -6,7 +6,9 @@ For all sports fans like myself, the last week (or so) after the end of the Pari
 - The Excel Workbook with all the visualizations and the dashboard in the "final workbook" folder
 - The dashboard as a PDF file
 - A report explaining the scope of my project, the steps taken and the insights derived
-- A Power Point presentation with the key elements of the project
+
+### Note
+The Results and Interpretation section in the report is still being reviewed, if you have any suggestions on hhow to improve it!
 
 
 ## Contributing
